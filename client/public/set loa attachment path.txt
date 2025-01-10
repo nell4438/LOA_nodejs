@@ -1,0 +1,4 @@
+mklink /d "C:\Program Files\WebApps\Leave Of Absence\CLIENT\dist\LOA_ATTACHMENTS" "C:\Program Files\WebApps\Leave Of Absence\SERVER\LOA_ATTACHMENTS"
+
+
+kunin mo muna ung path ng CLIENT\dist\tapos name ng attachment dapat magkapareho\sunod ung ung path ng server lagyan din ng pangalan ng attachments
